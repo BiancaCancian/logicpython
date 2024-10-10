@@ -1,0 +1,1 @@
+# Repository dedicated to programming logic studies with Python
